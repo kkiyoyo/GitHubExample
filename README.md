@@ -5,7 +5,7 @@
 
 
 ## 今日のタスク
-- [] Githubアカウントを作成する
-- [] ファイルを追加、編集する
+- [ ] Githubアカウントを作成する
+- [ ] ファイルを追加、編集する
 
 # Hello Welcome to my github kkojima
