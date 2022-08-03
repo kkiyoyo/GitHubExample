@@ -1,6 +1,6 @@
 # GitHub sample Repository for GitHub HandsOn.
 ## 自己紹介
-- 名前：kkojima
+- 名前：kkojimaaaaaaaaa
 - 所属：Human resources
 
 
